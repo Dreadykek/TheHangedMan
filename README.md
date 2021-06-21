@@ -1,8 +1,4 @@
-[![Travis][build-badge]][build]
-
-[build-badge]: https://img.shields.io/travis/Dreadykek/TheHangedMan/master.png?style=flat-square
-
-[build]: https://travis-ci.com/Dreadykek/TheHangedMan
+[![Build Status](https://travis-ci.com/Dreadykek/TheHangedMan.svg?branch=main)](https://travis-ci.com/Dreadykek/TheHangedMan)
 
 Мы будем играть в "виселицу". Приложение «загадывает» одно из следующих слов: skillfactory, testing, blackbox, pytest, unittest, coverage. И показывает количество букв в нём.
 
