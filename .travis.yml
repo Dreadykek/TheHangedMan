@@ -1,9 +1,9 @@
 language: python
 python:
-  - "3.9.1"
+ - "3.7"
 before-install:
-- "export PYTHONPATH=$PYTHONPATH:$(pwd)"
+ - "export PYTHONPATH=$PYTHONPATH:$(pwd)"
 install:
-- pip install -r requirements.txt
+ - pip install -r requirements.txt
 script:
-- pytest
+ - pytest
